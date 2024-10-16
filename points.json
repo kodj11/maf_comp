@@ -1,0 +1,32 @@
+[
+    {
+      "name": "GATTI",
+      "lon": 61.676875,
+      "lat": 50.820204,
+      "billboard": {
+        "src": "https://raw.githubusercontent.com/kodj11/maf_comp/refs/heads/main/mark.svg",
+        "size": [18, 32],
+        "offset": [0, 16]
+      }
+    },
+    {
+      "name": "Неприкасаемые",
+      "lon": 61.674396, 
+      "lat": 50.833477,
+      "billboard": {
+        "src": "https://raw.githubusercontent.com/kodj11/maf_comp/refs/heads/main/mark.svg",
+        "size": [18, 32],
+        "offset": [0, 16]
+      }
+    },
+    {
+      "name": "Точка 3",
+      "lon": 8.546,
+      "lat": 46.346,
+      "billboard": {
+        "src": "https://raw.githubusercontent.com/kodj11/maf_comp/refs/heads/main/mark.svg",
+        "size": [18, 32],
+        "offset": [0, 16]
+      }
+    }
+  ]
