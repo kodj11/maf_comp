@@ -5,7 +5,7 @@
       "lon": 50.8203213,
       "billboard": {
         "src": "https://raw.githubusercontent.com/kodj11/maf_comp/refs/heads/main/mark.svg",
-        "size": [18, 18],
+        "size": [22, 18],
         "offset": [0, 16]
       }
     },
@@ -15,7 +15,7 @@
       "lon": 50.833477, 
       "billboard": {
         "src": "https://raw.githubusercontent.com/kodj11/maf_comp/refs/heads/main/mark.svg",
-        "size": [18, 18],
+        "size": [22, 18],
         "offset": [0, 16]
       }
     },
